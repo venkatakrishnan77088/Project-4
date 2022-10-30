@@ -1,0 +1,248 @@
+.wrapper{
+	margin:auto;
+	width:70%;
+}
+.header{
+	background-color:#443f3b;
+	margin-top:10px;
+	margin-bottom:24px;
+}
+.header-fc{
+	display:flex;
+	justify-content:space-between;
+}
+.header-fc .logo{
+	width:40px;
+	margin:10px;
+	height:40px;
+	padding-top:20px;
+}
+.header-fc .navi{
+	height:40px;
+	width:374px;
+	padding:20px;
+}
+.welcome{
+	background-color:#443f3b;
+	margin-top:178px;
+}
+.welcome-fc{
+	display:flex;
+	flex-wrap:wrap;
+}
+.welcome-fc .welcome-head{
+	width:100%;
+	height:36px;
+	text-align:center;
+}
+.welcome-para{
+text-align:center;
+width:100%;
+height:72px;
+}
+.welcome-but{
+	border:1px solid red;
+	padding:15px 5px;
+	margin-left:38%;
+	margin-top:64px;
+	margin-bottom:200px;
+	background-color:yellow;
+	width:224px;
+	text-align:center;
+
+}
+.service{
+	margin-top:96px;
+	background-color:white;
+}
+.service-fc{
+	display:flex;
+	background-color:white;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.service-fc .service-head{
+	height:48px;
+	padding:20px;
+	width:100%;
+	text-align:center;
+}
+.service-fc .service-para{
+	width:100%;
+	height:19px;
+	text-align:center;
+}
+.service-fc .service-item{
+	height:317px;
+	width:30%;
+	background-color:#3CE0E7;
+	margin-top:64px;
+}
+.portfolio{
+	margin-top:208px;
+	margin-bottom:96px;
+	background-color:white;
+}
+.portfolio-fc{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.portfolio-fc .portfolio-head{
+	width:100%;
+	height:48px;
+	text-align:center;
+}
+.portfolio-fc .portfolio-para{
+	width:100%;
+	height:19px;
+	text-align:center;
+}
+.portfolio-fc .portfolio-item{
+	background-color:#7AE73C;
+	height:267px;
+	margin-top:64px;
+	width:300px;
+	text-align:center;
+	padding-bottom:96px;
+}
+.about{
+	background-color:white;
+}
+.about-fc{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:flex-start;
+}
+.about-fc .about-head{
+	height:48px;
+	width:100%;
+	text-align:center;
+	margin-bottom:16px;
+}
+.about-fc .about-para{
+	width:100%;
+	height:19px;
+	text-align:center;
+	margin-bottom:71px;
+}
+
+
+
+.about-fc .about-para1{
+	width:458px;
+	height:262;
+	background-color:#E74C3C;
+
+}
+.about-fc .about-para2{
+	margin-left:22px;
+	
+	margin-top:30px;
+	height:156px;
+	width:156px;
+	background-color:#E74C3C;
+	border-radius:100%;
+	text-align:center;
+	margin-bottom:206px;
+}
+.story{
+	margin-top:199px;
+	background-color:white;
+}
+.story-fcc{
+	display:flex;
+	justify-content:center;
+}
+.story-fcc .story-r{
+	height:156px;
+	width:156px;
+	border-radius:100%;
+	margin-bottom:206px;
+	text-align:center;
+	background-color:#ffc800;
+}
+.team{
+	background-color:white;
+}
+.team-fc{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.team-head{
+	width:100%;
+	height:48px;
+	text-align:center;
+	margin-bottom:19px;
+}
+.team-para{
+	width:100%;
+	height:19px;
+	margin-bottom:64px;
+	text-align:center;
+	
+}
+.team-img{
+	height:156px;
+	width:156px;
+	border-radius:100%;
+	margin-bottom:266px;
+	text-align:center;
+	background-color:#7AE73C;
+}
+.contact{
+	background-color:black;
+	margin-top:10px;
+}
+.contact-fc{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+
+.contact-fc .contact-head{
+	text-align:center;
+	height:48px;
+	width:100%;
+	margin-bottom:10px;
+	color:white;
+}
+.contact-para{
+	height:19px;
+	width:100%;
+	color:white;
+	text-align:center;
+	margin-bottom:64px;
+}
+.footer{
+background-color:black;
+
+}
+.footer-fc{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	
+}
+.footer-l{
+	height:256px;
+	width:48%;
+	text-align:center;
+	background-color:white;
+}
+.footer-r{
+	height:256px;
+	width:48%;
+	text-align:center;
+	background-color:white;
+}
+.footer-m{
+	border:1px solid yellow;
+	padding:25px;
+	background-color:yellow;
+	margin-left:45%;
+	margin-top:18px;
+	margin-bottom:18px;
+}
+	
